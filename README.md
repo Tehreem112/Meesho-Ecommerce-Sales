@@ -1,6 +1,6 @@
 # Meesho-E-commerce-Sales (Interactive Dashboard creating using Power BI)
 
-## Poject objective
+## Project objective
 Owner of Meesho Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
 ## Meeho Dataset 
