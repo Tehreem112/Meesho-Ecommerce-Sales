@@ -25,6 +25,7 @@ Owner of Meesho Store wants us to help them create a dashboard to track and anal
 
 ## Dashboard
 - <a href = "https://github.com/Tehreem112/Meesho-Ecommerce-Sales/blob/main/Meesho%20Ecommerce%20Dashboard.png">Dashboard</a>
+
 ![Meesho Ecommerce Dashboard](https://github.com/user-attachments/assets/d02d1e22-1326-42ad-b657-2bd9a7fab2aa)
 
 ## Key insights
