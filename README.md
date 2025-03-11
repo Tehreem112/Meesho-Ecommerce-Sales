@@ -3,7 +3,7 @@
 ## Project objective
 Owner of Meesho Store wants us to help them create a dashboard to track and analyze their online sales across India.
 
-## Meeho Dataset 
+## Meesho Dashboaard Link 
 - <a href = "https://github.com/Tehreem112/Meesho-Ecommerce-Sales">Meesho Dataset</a>
 
 ## Questions: 
