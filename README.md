@@ -26,8 +26,6 @@ Owner of Meesho Store wants us to help them create a dashboard to track and anal
 ## Dashboard
 - <a href = "https://github.com/Tehreem112/Meesho-Ecommerce-Sales/blob/main/Meesho%20Ecommerce%20Dashboard.png">Dashboard</a>
 
-![Meesho Ecommerce Dashboard](https://github.com/user-attachments/assets/d02d1e22-1326-42ad-b657-2bd9a7fab2aa)
-
 ## Key insights
 - Total Amount
 - Total Quantity
@@ -35,5 +33,9 @@ Owner of Meesho Store wants us to help them create a dashboard to track and anal
 - The highest profit months are January, February, and November when   the store earned more profit 
 - Maharashtra, Madhya Pradesh, Uttar Pradesh, and Dehli states contribute the highest sales amount
 - Clothing, furniture, and electronics  are the top product categories in which store received the most orders from customers
+
+
+![Meesho Ecommerce Dashboard](https://github.com/user-attachments/assets/d02d1e22-1326-42ad-b657-2bd9a7fab2aa)
+
 
 
